@@ -2,6 +2,10 @@
 
 Este projeto é uma aplicação simples em C para gerenciar um cadastro de usuários. O sistema permite adicionar, listar e buscar usuários, demonstrando o uso de arrays, estruturas e manipulação de strings em C.
 
+## Screenshots
+
+![Primeira Tela](/pictureScreen/image.png)
+
 ## Funcionalidades
 
 - **Adicionar Usuário**: Permite ao usuário adicionar um novo usuário ao sistema com nome e e-mail.
